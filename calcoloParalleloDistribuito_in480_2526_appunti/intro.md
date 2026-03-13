@@ -1,4 +1,7 @@
 # La parola chiave del corso è: Prestazioni
+![Io sono velocità](./images/saetta.jpg "Io sono velocità")
+*Pic from Disney's Cars*
+
 Perché molte applicazioni di grande interesse in vari campi hanno bisogno di una considerevole potenza computazionale: le previsioni del meteo, le simulazioni fisiche, l'animazione 3D, applicazioni per la finanza, etc.
 
 Ci occupiamo quindi di *High Performance Computing* (calcolo ad alte prestazioni) al fine di riuscire a:
